@@ -1,0 +1,21 @@
+body{
+    background-color: whitesmoke;
+    display: flex;
+    flex-direction: column;
+}
+div{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: whitesmoke;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: 15px;
+    display: block;
+    width: 50px;
+    height: 30px;
+
+}
+img{
+    width: 200px;
+    height: 200px;
+    border-radius: 5px;
+}
